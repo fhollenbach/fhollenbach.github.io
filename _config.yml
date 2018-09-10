@@ -2,11 +2,8 @@
 # so be sure to set them if your theme uses them.
 #
 title : Florian M. Hollenbach's Website
-
 author:
   name: Florian M. Hollenbach
-  avatar: /img/images/portrait.png
-  bio: "Assistant Professor at Texas A&M University"
 
 
 markdown: kramdown
