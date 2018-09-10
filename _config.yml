@@ -5,6 +5,13 @@ title : Florian M. Hollenbach's Website
 author:
   name: Florian M. Hollenbach
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
 
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
