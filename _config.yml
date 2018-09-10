@@ -6,17 +6,7 @@ title : Florian M. Hollenbach's Website
 author:
   name: Florian M. Hollenbach
   avatar: /img/images/portrait.png
-  bio: Assistant Professor at Texas A&M University
-  links:
-    - label: Website
-      icon: fas fa-fw fa-link
-      url: https://fhollenbach.org
-    - label: Twitter
-      icon: fab fa-fw fa-twitter-square
-      url: https://twitter.com/fhollenbach
-    - label: GitHub
-      icon: fab fa-fw fa-github
-      url: https://github.com/fhollenbach
+  bio: "Assistant Professor at Texas A&M University"
 
 
 markdown: kramdown
