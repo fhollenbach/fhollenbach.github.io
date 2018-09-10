@@ -13,7 +13,7 @@ Introduction to Political Science Research & Methods – [Link to course page](h
 
 ## Spring 2017: 
 
-Applied Bayesian Modeling for the Social Sciences (PhD level) – [Syllabus](papers/Syllabus_Bayes_Hollenbach.pdf)
+Applied Bayesian Modeling for the Social Sciences (PhD level) – [Syllabus](../papers/Syllabus_Bayes_Hollenbach.pdf)
 
 ## Fall 2016:
 
@@ -21,6 +21,6 @@ Introduction to Political Science Research & Methods — (2 sections)
 
 ## Fall 2015:
 
-Global Inequality – The Wealth of (some) Nations – [Syllabus](papers/SyllabusGlobalInequality-324-501_Hollenbach.pdf) — (2 sections)
+Global Inequality – The Wealth of (some) Nations – [Syllabus](../papers/SyllabusGlobalInequality-324-501_Hollenbach.pdf) — (2 sections)
 
  
