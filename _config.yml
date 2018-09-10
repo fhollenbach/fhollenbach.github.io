@@ -10,7 +10,7 @@ author :
   feedburner : nil
 
 markdown: kramdown
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
 
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 
