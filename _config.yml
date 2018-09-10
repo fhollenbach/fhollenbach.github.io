@@ -15,7 +15,7 @@ theme: jekyll-theme-minimal
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 
 
-production_url : https://fhollenbach.github.io/
+production_url : https://fhollenbach.github.io/website
 
 JB :
   version : 0.3.0
