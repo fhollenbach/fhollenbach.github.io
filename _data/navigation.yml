@@ -5,8 +5,8 @@ main:
   - title: "Publications"
     url: /pages/publications/
   - title: "Working Papers"
-     url: /pages/workingpapers
+    url: /pages/workingPapers/
   - title: "Teaching"
-     url: /pages/teaching/
-   - title: "CV"
-     url: /papers/HOLLENBACH-2018-CV.pdf
+    url: /pages/teaching/
+  - title: "CV"
+    url: /papers/HOLLENBACH-2018-CV.pdf
