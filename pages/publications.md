@@ -1,6 +1,9 @@
 ---
 title: Publications
 description: Florian M. Hollenbach's Publications
+type: pages
+layout: single
+author_profile: true
 ---
 
 
