@@ -101,10 +101,9 @@ analytics:
 # Site Author
 author:
   name             : "Florian M. Hollenbach"
-  avatar           : # path of avatar image, e.g. "/assets/img/portrait.png"
+  avatar           : "/assets/img/portrait.png"
   bio              : "I am an assistant professor in political science at Texas A&M University"
   location         : "BCS, TX"
-  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
