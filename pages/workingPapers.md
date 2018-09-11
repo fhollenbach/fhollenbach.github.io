@@ -1,6 +1,9 @@
 ---
 title: Working Papers
 description: Florian M. Hollenbach's Working Papers
+type: pages
+layout: single
+author_profile: false
 ---
 
 [Public Spending in Autocracies: Evidence from Prussian Cities.](../papers/Hollenbach_Cities_2018.pdf) – (2018) (R&R)
