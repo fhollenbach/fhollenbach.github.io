@@ -2,11 +2,11 @@
 main:
   - title: "Home"
     url: https://fhollenbach.github.io/
-  - title: "Publications"
-     url: https://fhollenbach.github.io/sites/publications.html
-  - title: "Working Papers"
-     url:  https://fhollenbach.github.io/sites/workingpapers.html
-  - title: "Teaching"
-     url: /sites/teaching.html
+ # - title: "Publications"
+  #   url: https://fhollenbach.github.io/sites/publications.html
+ # - title: "Working Papers"
+ #    url:  https://fhollenbach.github.io/sites/workingpapers.html
+#  - title: "Teaching"
+#     url: /sites/teaching.html
   # - title: "Sitemap"
   #   url: /sitemap/
