@@ -51,11 +51,8 @@ author:
   avatar           : "/assets/img/portrait.png"
   bio              : "I am an assistant professor in political science at Texas A&M University"
   location         : "BCS, TX"
-  email            :
+  email            : "fhollenbach@tamu.edu"
   links:
-    - label: "Email"
-     icon: "fas fa-fw fa-envelope-square"
-     # url: "mailto:fhollenbach@tamu.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/fhollenbach"
