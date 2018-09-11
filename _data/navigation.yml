@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: https://fhollenbach.github.io/
- # - title: "Publications"
-  #   url: /_pages/publications.html
+  - title: "Publications"
+    url: /pages/publications/
  # - title: "Working Papers"
  #    url:  https://fhollenbach.github.io/sites/workingpapers.html
 #  - title: "Teaching"
