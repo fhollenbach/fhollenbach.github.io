@@ -42,3 +42,26 @@ analytics:
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
+
+
+
+# Site Author
+author:
+  name             : "Florian M. Hollenbach"
+  avatar           : "/assets/img/portrait.png"
+  bio              : "I am an assistant professor in political science at Texas A&M University"
+  location         : "BCS, TX"
+  email            :
+  links:
+   # - label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:fhollenbach@tamu.edu"
+   # - label: "Website"
+   #   icon: "fas fa-fw fa-link"
+      # url: "https://fhollenbach.org"
+   # - label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/fhollenbach"
+   # - label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+      # url: "https://github.com/fhollenbach"
