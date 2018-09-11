@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://fhollenbach.github.io/
  # - title: "Publications"
-  #   url: https://fhollenbach.github.io/sites/publications.html
+  #   url: /_pages/publications.html
  # - title: "Working Papers"
  #    url:  https://fhollenbach.github.io/sites/workingpapers.html
 #  - title: "Teaching"
