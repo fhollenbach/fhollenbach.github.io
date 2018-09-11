@@ -1,6 +1,9 @@
 ---
 title: Teaching
 description: Florian M. Hollenbach's Teaching
+type: pages
+layout: single
+author_profile: true
 ---
 
 ## Fall 2018:
