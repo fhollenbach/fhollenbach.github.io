@@ -170,3 +170,26 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: pages
+    values:
+    layout: single
+    author_profile: true
+    read_time: false
+    comments: false
+    share: false
