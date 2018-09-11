@@ -1,6 +1,7 @@
 ---
 title: Florian M. Hollenbach's Website
 description: Website for Florian M. Hollenbach, Assistant Professor, Department of Political Science, Texas A&M University
+author_profile: true
 ---
 
 I am currently an assistant professor in the Department of Political Science at Texas A&M University. I received my PhD in political science from Duke University in May 2015. During the 2014/2015 academic year, I was a fellow at the Niehaus Center for Globalization and Governance at Princeton University.
