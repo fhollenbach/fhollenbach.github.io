@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Home"
+    url: https://fhollenbach.github.io/
+  - title: "Publications"
+     url: https://fhollenbach.github.io/sites/publications.html
+  - title: "Working Papers"
+     url:  https://fhollenbach.github.io/sites/workingpapers.html
+  - title: "Teaching"
+     url: /sites/teaching.html
   # - title: "Sitemap"
   #   url: /sitemap/
