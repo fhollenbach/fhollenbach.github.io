@@ -10,7 +10,7 @@ author_profile: false
 
 [The Origin of Universities in Europe, 800-1800.](../papers/Hollenbach_Pierskalla_APSA2018.pdf) – With Jan H. Pierskalla (2018)
 
-[Fiscal Capacity as a Moderator of the Taxation-Accountability Hypothesis.](../papers/Gottlieb_Hollenbach_2018.pdf) – With Jessica Gottlieb (2018)
+[Fiscal Capacity as a Moderator of the Taxation-Accountability Hypothesis.](../papers/FiscalCapacityBrazil_GH_Dec2018.pdf) – With Jessica Gottlieb (2018)
 
 [Universities and Democratization.](../papers/Hollenbach_Magat_Pierskalla_2018.pdf) – With Jan H. Pierskalla and Janica Magat (2018)
 
