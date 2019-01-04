@@ -6,7 +6,7 @@ layout: single
 author_profile: false
 ---
 
-[Public Spending in Autocracies: Evidence from Prussian Cities.](../papers/Hollenbach_Cities_2018.pdf) – (2018) (R&R)
+[Public Spending in Autocracies: Evidence from Prussian Cities.](../papers/Hollenbach_Cities_2019.pdf) – (2019) (R&R)
 
 [The Origin of Universities in Europe, 800-1800.](../papers/Hollenbach_Pierskalla_APSA2018.pdf) – With Jan H. Pierskalla (2018)
 
