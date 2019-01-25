@@ -8,13 +8,14 @@ author_profile: false
 
 [Public Spending in Autocracies: Evidence from Prussian Cities.](../papers/Hollenbach_Cities_2019.pdf) – (2019) (R&R)
 
+Universities and Democratization. – With Jan H. Pierskalla and Janica Magat (2019) - (please email for current version)
+
+Capital Mobility & Taxation in Autocracies – Evidence from China – With Ling Chen (2019) - (please email for current version)
+
 [The Origin of Universities in Europe, 800-1800.](../papers/Hollenbach_Pierskalla_APSA2018.pdf) – With Jan H. Pierskalla (2018)
 
 [Fiscal Capacity as a Moderator of the Taxation-Accountability Hypothesis.](../papers/FiscalCapacityBrazil_GH_Jan2019.pdf) – With Jessica Gottlieb (2019)
 
-[Universities and Democratization.](../papers/Hollenbach_Magat_Pierskalla_2018.pdf) – With Jan H. Pierskalla and Janica Magat (2018)
-
-Capital Mobility & Taxation in Autocracies – Evidence from China – With Ling Chen (2018) - (please email for current version)
 
 The Development of Fiscal Capacity in 19th Century Prussia – (2017) - (please email for current version)
 
