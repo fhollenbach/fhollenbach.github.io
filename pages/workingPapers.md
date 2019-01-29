@@ -6,8 +6,6 @@ layout: single
 author_profile: false
 ---
 
-[Public Spending in Autocracies: Evidence from Prussian Cities.](../papers/Hollenbach_Cities_2019.pdf) – (2019) (R&R)
-
 Universities and Democratization. – With Jan H. Pierskalla and Janica Magat (2019) - (please email for current version)
 
 Capital Mobility & Taxation in Autocracies – Evidence from China – With Ling Chen (2019) - (please email for current version)
