@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 ---
 
+## Spring 2019:
+
+Comparative Politics Research Design (PhD level) – [Link to course page](https://fhollenbach.github.io/Pols621_2019/) 
+
 ## Fall 2018:
 
 Introduction to Political Science Research & Methods – [Link to course page](https://fhollenbach.github.io/Polisci209_2018/) — (2 sections)
