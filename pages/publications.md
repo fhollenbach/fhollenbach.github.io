@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-[Public Spending in Autocracies: Evidence from Prussian Cities.](../papers/Hollenbach_Cities_2019.pdf) – 2019. Accepted for Publication at Review of International Organizations.
+[Public Spending in Autocracies: Evidence from Prussian Cities.](../papers/Hollenbach_RIO_2019.pdf) – 2019. Accepted for Publication at Review of International Organizations. [Online Appendix](../papers/Appendix_Rio.pdf)
 
 
 [Spatial Interdependence and Instrumental Variable Models.](https://osf.io/preprints/socarxiv/pgrcu/) – With Timm Betz and Scott J. Cook. 2018. Accepted for Publication at Political Science Research & Methods.
