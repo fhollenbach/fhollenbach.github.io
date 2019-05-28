@@ -22,7 +22,7 @@ author_profile: true
 
 [A Re-Assessment of Reporting Bias in Event-Based Violence Data with Respect to Cell Phone Coverage.](http://journals.sagepub.com/doi/full/10.1177/2053168017730687) – With Jan Pierskalla. 2017. Research & Politics. 4(3). 1-5. [Online Appendix](papers/Hollenbach_Pierskalla_RP_Appendix.pdf)
 
-[Cabinet Formation and Portfolio Distribution in European Multiparty Systems.](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/cabinet-formation-and-portfolio-distribution-in-european-multiparty-systems/2D704A6AA526F940D63FCD8A21053C70) – With Josh Cutler, Scott De Marchi, Max Gallop, Michael Laver and Matthias Orlovski. 2016. British Journal of Political Science. 46(1). 31-43. [Blog post](http://www.the-plot.org/2016/02/10/cabinet-formation-and-portfolio-distribution-in-european-multiparty-systems/)
+[Cabinet Formation and Portfolio Distribution in European Multiparty Systems.](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/cabinet-formation-and-portfolio-distribution-in-european-multiparty-systems/2D704A6AA526F940D63FCD8A21053C70) – With Josh Cutler, Scott De Marchi, Max Gallop, Michael Laver and Matthias Orlowski. 2016. British Journal of Political Science. 46(1). 31-43. [Blog post](http://www.the-plot.org/2016/02/10/cabinet-formation-and-portfolio-distribution-in-european-multiparty-systems/)
 
 [Calibrating Ensemble Forecasting Models with Sparse Data in the Social Sciences.](https://www.sciencedirect.com/science/article/pii/S0169207014001010) – With Jacob M. Montgomery and Michael D. Ward. 2015. International Journal of Forecasting. 31(3). 930-942.
 
