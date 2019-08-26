@@ -6,13 +6,13 @@ layout: single
 author_profile: true
 ---
 
+Bayesian Model Selection, Model Comparison, and Model Averaging - 2019. Forthcoming in the Sage Handbook for Research Methods in Political Science & International Relations.
 
 [Elite Interests and Public Spending: Evidence from Prussian Cities.](../papers/Hollenbach_RIO_2019.pdf) – 2019. Review of International Organizations. [Online Appendix](../papers/Appendix_Rio.pdf)
 
+[Spatial Interdependence and Instrumental Variable Models.](https://osf.io/preprints/socarxiv/pgrcu/) – With Timm Betz and Scott J. Cook. 2019. Political Science Research & Methods. First-View.
 
-[Spatial Interdependence and Instrumental Variable Models.](https://osf.io/preprints/socarxiv/pgrcu/) – With Timm Betz and Scott J. Cook. 2018. Accepted for Publication at Political Science Research & Methods.
-
-[Fiscal Capacity, Income Distribution, and Taxation in Brazilian Municipalities.](../papers/Hollenbach_Silva_2018_web.pdf) – With Thiago Silva. 2018. Accepted for Publication at the Journal of Politics.
+[Fiscal Capacity, Income Distribution, and Taxation in Brazilian Municipalities.](../papers/Hollenbach_Silva_2018_web.pdf) – With Thiago Silva. 2019. First-View.
 
 [Multiple Imputation Using Gaussian Copulas.](../papers/Hollenbach_etal_SMR_2018_web.pdf) – With Iavor Bojinov, Shahryar Minhas, Nils W. Metternich, Michael D. Ward, and Alexander Volfovsky. 2018. Sociological Methods & Research. First-View.
 
