@@ -1,5 +1,5 @@
 ---
-title: Working Papers
+title: Working Papers & Work in Progress
 description: Florian M. Hollenbach's Working Papers
 type: pages
 layout: single
@@ -8,7 +8,7 @@ author_profile: false
 
 Universities and Democratization – With Jan H. Pierskalla and Janica Magat (2019) - (please email for current version)
 
-Capital Mobility & Taxation in Non-OECD Countries – Evidence from China – With Ling Chen (2019) - (please email for current version)
+[Capital Mobility & Taxation in Non-OECD Countries – Evidence from China](../papers/Hollenbach_Chen_2019.pdf) – With Ling Chen (2019)
 
 [The Origin of Universities in Europe, 800-1800.](../papers/Hollenbach_Pierskalla_2019.pdf) – With Jan H. Pierskalla (2019)
 
