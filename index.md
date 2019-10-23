@@ -10,6 +10,6 @@ My research focuses on the political economy state capacity and state developmen
 
 I am also interested in the political geography of conflict and political methodology, specifically Bayesian and spatial statistics. Since starting at Texas A&M, I have taught undergraduate classes on the political economy of development and introduction to political science research methods. In spring 2017, I taught Applied Bayesian Statistics for graduate students. This year I am serving as the co-organizer of our workshop in Political Economy and Political Violence at Texas A&M University.
 
-On this website you can find an overview of my [published research](pages/publications/), [current working papers](pages/workingPapers), and [teaching](pages/teaching). Here are links to [CV](papers/HOLLENBACH-2019-CV.pdf), [Google Scholar page](https://scholar.google.com/citations?user=1B4nx4oAAAAJ&hl=en) and [Dataverse](https://dataverse.harvard.edu/dataverse/fhollenbach).
+On this website you can find an overview of my [published research](pages/publications/), [current working papers](pages/workingPapers), and [teaching](pages/teaching). Here are links to my [CV](papers/HOLLENBACH-2019-CV.pdf), [Google Scholar page](https://scholar.google.com/citations?user=1B4nx4oAAAAJ&hl=en) and [Dataverse](https://dataverse.harvard.edu/dataverse/fhollenbach). Recently, I have put together some resources on improving students' academic writing, you can find those under: [http://fhollenbach.org/WritingAcademic/](http://fhollenbach.org/WritingAcademic/).
 
 
