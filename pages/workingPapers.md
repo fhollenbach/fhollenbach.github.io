@@ -12,8 +12,6 @@ Universities and Democratization – With Jan H. Pierskalla and Janica Magat (20
 
 [The Origin of Universities in Europe, 800-1800.](../papers/Hollenbach_Pierskalla_2019.pdf) – With Jan H. Pierskalla (2019)
 
-Bias due to network misspecification under spatial dependence - With Timm Betz and Scott J. Cook (2019) - R&R (please email for current version) 
-
 [Fiscal Capacity as a Moderator of the Taxation-Accountability Hypothesis](../papers/Gottlieb_Hollenbach_2019.pdf) – With Jessica Gottlieb (2019)
 
 Autocracy, Inequality, and Fiscal Capacity: Evidence from 19th Century Prussia – (2019) - (please email for current version)

@@ -6,13 +6,15 @@ layout: single
 author_profile: true
 ---
 
-Bayesian Model Selection, Model Comparison, and Model Averaging - 2019. Forthcoming in the Sage Handbook for Research Methods in Political Science & International Relations.
+Bias due to network misspecification under spatial dependence - With Timm Betz and Scott J. Cook. 2019 - Conditional Accept (Pending Replication). Political Analysis.
 
-[Elite Interests and Public Spending: Evidence from Prussian Cities.](../papers/Hollenbach_RIO_2019.pdf) – 2019. Review of International Organizations. [Online Appendix](../papers/Appendix_Rio.pdf)
+Bayesian Model Selection, Model Comparison, and Model Averaging - With Jacob M. Montgomery. 2019. Forthcoming in the Sage Handbook for Research Methods in Political Science & International Relations.
+
+[Elite Interests and Public Spending: Evidence from Prussian Cities.](../papers/Hollenbach_RIO_2019.pdf). Review of International Organizations. 2019. First-View. [Online Appendix](../papers/Appendix_Rio.pdf)
 
 [Spatial Interdependence and Instrumental Variable Models.](https://osf.io/preprints/socarxiv/pgrcu/) – With Timm Betz and Scott J. Cook. 2019. Political Science Research & Methods. First-View.
 
-[Fiscal Capacity, Income Distribution, and Taxation in Brazilian Municipalities.](../papers/Hollenbach_Silva_2018_web.pdf) – With Thiago Silva. 2019. First-View.
+[Fiscal Capacity, Income Distribution, and Taxation in Brazilian Municipalities.](../papers/Hollenbach_Silva_2018_web.pdf) – With Thiago Silva. 2019. Journal of Politics. 81(4). 1434–1445.
 
 [Multiple Imputation Using Gaussian Copulas.](../papers/Hollenbach_etal_SMR_2018_web.pdf) – With Iavor Bojinov, Shahryar Minhas, Nils W. Metternich, Michael D. Ward, and Alexander Volfovsky. 2018. Sociological Methods & Research. First-View.
 
