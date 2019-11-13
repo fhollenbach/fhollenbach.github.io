@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-[Bias due to network misspecification under spatial dependence.](../papers/BCH_2019_Bias.pdf) - With Timm Betz and Scott J. Cook. 2019 - Conditional Accept (Pending Replication). Political Analysis.
+[Bias due to network misspecification under spatial dependence.](https://osf.io/preprints/socarxiv/8phvx/) - With Timm Betz and Scott J. Cook. 2019 - Conditional Accept (Pending Replication). Political Analysis.
 
 [Bayesian Model Selection, Model Comparison, and Model Averaging.](../papers/Hollenbach_Montgomery_2019_BayesianModelSelection.pdf) - With Jacob M. Montgomery. 2019. Forthcoming in The SAGE Handbook of Research Methods in Political Science and International Relations.
 
