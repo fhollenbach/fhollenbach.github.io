@@ -6,7 +6,7 @@ author_profile: true
 
 I am currently an assistant professor in the Department of Political Science at Texas A&M University. I received my PhD in political science from Duke University in May 2015. During the 2014/2015 academic year, I was a fellow at the Niehaus Center for Globalization and Governance at Princeton University.
 
-My research focuses on the political economy state capacity and state development, specifically the development of fiscal capacity and taxation in authoritarian regimes. I am currently working on multiple manuscripts that investigate the link between inequality and fiscal capacity in autocracies and how low levels of fiscal capacity can impact democratic politics in young regimes. 
+My research focuses on the political economy of state capacity and state development, specifically the development of fiscal capacity and taxation in authoritarian regimes. I am currently working on multiple manuscripts that investigate the link between inequality and fiscal capacity in autocracies and how low levels of fiscal capacity can impact democratic politics in young regimes. 
 
 I am also interested in the political geography of conflict and political methodology, specifically Bayesian and spatial statistics. Since starting at Texas A&M, I have taught undergraduate classes on the political economy of development and introduction to political science research methods. I have taught several undergraduate & graduate courses at Texas A&M, including Applied Bayesian Statistics and Comparative Politics Research Design for graduate students. 
 
