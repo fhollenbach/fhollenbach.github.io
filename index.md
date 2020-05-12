@@ -8,7 +8,7 @@ I am currently an assistant professor in the Department of Political Science at 
 
 My research focuses on the political economy of state capacity and state development, specifically the development of fiscal capacity and taxation in authoritarian regimes. I am currently working on multiple manuscripts that investigate the origins of fiscal capacity in non-democracies and the consequences of variations in fiscal capacity for democratic politics. 
 
-I am also interested in the political geography of conflict and political methodology, specifically Bayesian and spatial statistics. Since starting at Texas A&M, I have taught undergraduate classes on the political economy of development and introduction to political science research methods. I have taught several undergraduate & graduate courses at Texas A&M, including Applied Bayesian Statistics, Comparative Politics Research Design, and Comparative Political Economy for graduate students. 
+I am also interested in the political geography of conflict and political methodology, specifically Bayesian and spatial statistics. Since starting at Texas A&M, I have taught undergraduate classes on the political economy of development and introduction to political science research methods. At the graduate level I have taught courses in Applied Bayesian Statistics, Comparative Politics Research Design, and Comparative Political Economy. 
 
 Together with Jan Pierskalla at the Ohio State University, I am organizing the virtual workshop in Historical Political Economy. The workshop is a resource for scholars in political science and economics to receive constructive feedback on work in progress in HPE. More information about the workshop can be found [here](https://historicalpe.org/).
 
