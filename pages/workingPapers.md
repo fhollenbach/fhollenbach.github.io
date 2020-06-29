@@ -14,7 +14,7 @@ Universities and Democratization – With Jan H. Pierskalla and Janica Magat (20
 
 Capital Endowments and Investments in Fiscal Capacity: Evidence from 19th Century Prussia – (2020) - (please email for current version)
 
-[The Origin of Universities in Europe, 800-1800.](../papers/Hollenbach_Pierskalla_2019.pdf) – With Jan H. Pierskalla (2019)
+[The Origin of Universities in Europe, 800-1800.](../papers/Hollenbach_Pierskalla_2020.pdf) – With Jan H. Pierskalla (2020)
 
 [Capital Mobility & Taxation in Non-OECD Countries – Evidence from China](../papers/Hollenbach_Chen_2019.pdf) – With Ling Chen (2019)
 
