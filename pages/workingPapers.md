@@ -24,4 +24,4 @@ __Work In Progress (Early Stages):__
 
 Property Tax Underpayment by Politicians: Evidence from Large-Scale Data on Property Ownership & Assessments - With David Szakonyi
 
-Fiscal Capacity, Preferences over Taxation, and Distributional Consequences: Evidence from Survey Experiments - With Jessia Gottlieb and Thiago Moreira
+Fiscal Capacity, Preferences over Taxation, and Distributional Consequences: Evidence from Survey Experiments - With Jessia Gottlieb and Thiago Moreira [PAP](https://osf.io/yvqex)

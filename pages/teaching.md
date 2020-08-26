@@ -7,6 +7,10 @@ author_profile: true
 ---
 
 
+## Fall 2020:
+
+Comparative Politics Research Design (PhD level) – [Link to course page](https://fhollenbach.github.io/Pols621_2020/) 
+
 ## Spring 2020:
 
 Comparative Political Economy (PhD level) – [Link to course page](https://fhollenbach.github.io/Pols627_2020/) 
