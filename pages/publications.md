@@ -14,7 +14,7 @@ author_profile: true
 
 [Spatial Interdependence and Instrumental Variable Models.](https://osf.io/preprints/socarxiv/pgrcu/) – With Timm Betz and Scott J. Cook. 2019. Political Science Research & Methods. First-View.
 
-[Fiscal Capacity, Income Distribution, and Taxation in Brazilian Municipalities.](../papers/Hollenbach_Silva_2018_web.pdf) – With Thiago Silva. 2019. Journal of Politics. 81(4). 1434–1445.
+[Fiscal Capacity and Inequality: Evidence from Brazilian Municipalities.](../papers/Hollenbach_Silva_2018_web.pdf) – With Thiago Silva. 2019. Journal of Politics. 81(4). 1434–1445.
 
 [Multiple Imputation Using Gaussian Copulas.](../papers/Hollenbach_etal_SMR_2018_web.pdf) – With Iavor Bojinov, Shahryar Minhas, Nils W. Metternich, Michael D. Ward, and Alexander Volfovsky. 2018. Sociological Methods & Research. First-View.
 
