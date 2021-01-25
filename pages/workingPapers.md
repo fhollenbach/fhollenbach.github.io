@@ -16,12 +16,12 @@ Capital Endowments and Investments in Fiscal Capacity: Evidence from 19th Centur
 
 [The Origin of Universities in Europe, 800-1800.](../papers/Hollenbach_Pierskalla_2020.pdf) – With Jan H. Pierskalla (2020)
 
-[Capital Mobility & Taxation in Non-OECD Countries – Evidence from China](../papers/Hollenbach_Chen_2019.pdf) – With Ling Chen (2019)
-
-[State Building and the Geography of Governance: Evidence from Satellites](../papers/Hollenbach_Ward_Wibbels_2016.pdf) – With Michael D. Ward and Erik Wibbels (2016)
+[Capital Mobility & Taxation in Non-OECD Countries – Evidence from China](../papers/Hollenbach_Chen_2020.pdf) – With Ling Chen (2019)
 
 __Work In Progress (Early Stages):__
 
-Property Tax Underpayment by Politicians: Evidence from Large-Scale Data on Property Ownership & Assessments - With David Szakonyi
+Geographic Targeting Orders & Real Estate Markets - With Matt Collin and David Szakonyi (Early Stages)
+
+Private Equity Takeovers and Political Donations - With David Szakonyi (Early Stages)
 
 Fiscal Capacity, Preferences over Taxation, and Distributional Consequences: Evidence from Survey Experiments - With Jessia Gottlieb and Thiago Moreira [PAP](https://osf.io/yvqex)
