@@ -24,4 +24,4 @@ Geographic Targeting Orders & Real Estate Markets - With Matt Collin and David S
 
 Private Equity Takeovers and Political Donations - With David Szakonyi (Early Stages)
 
-Fiscal Capacity, Preferences over Taxation, and Distributional Consequences: Evidence from Survey Experiments - With Jessia Gottlieb and Thiago Moreira [PAP](https://osf.io/yvqex)
+Fiscal Capacity, Preferences over Taxation, and Distributional Consequences: Evidence from Survey Experiments - With Jessica Gottlieb and Thiago Moreira [PAP](https://osf.io/yvqex)
