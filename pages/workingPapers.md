@@ -16,7 +16,7 @@ Capital Endowments and Investments in Fiscal Capacity: Evidence from 19th Centur
 
 [The Origin of Universities in Europe, 800-1800.](../papers/Hollenbach_Pierskalla_2020.pdf) – With Jan H. Pierskalla (2020)
 
-[Capital Mobility & Taxation in Non-OECD Countries – Evidence from China](../papers/Hollenbach_Chen_2020.pdf) – With Ling Chen (2019)
+[Capital Mobility & Taxation in Non-OECD Countries – Evidence from China](../papers/Hollenbach_Chen_2020.pdf) – With Ling Chen (2020)
 
 __Work In Progress (Early Stages):__
 
