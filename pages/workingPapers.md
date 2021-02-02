@@ -8,7 +8,7 @@ author_profile: false
 
 __Working Papers:__
 
-[Fiscal Capacity as a Moderator of the Taxation-Accountability Hypothesis](../papers/Gottlieb_Hollenbach_2020.pdf) – With Jessica Gottlieb (2020)
+[When the Social Contract Breaks: Fiscal CapacityModerates the Link between Taxation and Voting](../papers/Gottlieb_Hollenbach_2020.pdf) – With Jessica Gottlieb (2020)
 
 Universities and Democratization – With Jan H. Pierskalla and Janica Magat (2020) - (please email for current version)
 
