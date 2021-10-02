@@ -49,9 +49,9 @@ analytics:
 author:
   name             : "Florian M. Hollenbach"
   avatar           : "/assets/img/portrait.png"
-  bio              : "Assistant professor in political science at Texas A&M University"
-  location         : "BCS, TX"
-  email            : "fhollenbach@tamu.edu"
+  bio              : "Associate Professor in Business & Politics at Copenhagen Business School"
+  location         : "Copenhagen, DK"
+  email            : "fho.egb@cbs.dk"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
