@@ -6,6 +6,28 @@ layout: single
 author_profile: true
 ---
 
+# Copenhagen Business School 
+(Course Coordination)
+
+
+## Spring 2023:
+
+[Quantitative Methods II - Bachelor in Business Administration & Sociology](https://kursuskatalog.cbs.dk/2022-2023/BA-BSOCO1024U.aspx)
+
+
+[Advanced Topics in Quantitative Methods - Bachelor in International Business and Politics](https://kursuskatalog.cbs.dk/2022-2023/BA-BPOLO2201U.aspx)
+
+
+## Spring 2022:
+
+Quantitative Methods II - Bachelor in Business Administration & Sociology 
+
+
+# Texas A&M University 
+
+## Spring 2021:
+
+Introduction to Political Science Research & Methods – (2 sections)
 
 ## Fall 2020:
 
