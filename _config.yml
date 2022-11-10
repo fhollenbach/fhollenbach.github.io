@@ -53,16 +53,18 @@ author:
   location         : "Copenhagen, DK"
   email            : "fho.egb@cbs.dk"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/fhollenbach"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastod"
+      url: "https://fediscience.org/@fhollenbach"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://fhollenbach.org"
-
-# - label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/fhollenbach"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/fhollenbach"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/fhollenbach"
 
 
 
