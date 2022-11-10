@@ -48,13 +48,13 @@ analytics:
 # Site Author
 author:
   name             : "Florian M. Hollenbach"
-  avatar           : "/assets/img/portrait.png"
+  avatar           : "/assets/img/IMG_6036.jpeg"
   bio              : "Associate Professor in Business & Politics at Copenhagen Business School"
   location         : "Copenhagen, DK"
   email            : "fho.egb@cbs.dk"
   links:
     - label: "Mastodon"
-      icon: "fab fa-fw fa-mastod"
+      icon: "fab fa-fw fa-mastodon"
       url: "https://fediscience.org/@fhollenbach"
     - label: "Website"
       icon: "fas fa-fw fa-link"
