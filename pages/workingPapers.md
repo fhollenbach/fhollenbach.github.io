@@ -17,8 +17,6 @@ The Political Consequences of Private Equity: Evidence from U.S. Leveraged Buyou
 
 Statistical Power in Staggered Difference-in-Differences Estimation (2023) - Benjamin C.K. Egerod and  Josh McCrain - (please email for current version)
 
-When the Social Contract Breaks: Fiscal Capacity Moderates the Link between Taxation and Voting (2023) – With Jessica Gottlieb - (please email for current version)
-
 Fiscal Capacity, Preferences over Taxation, and Distributional Consequences: Evidence from Survey Experiments (2023) - With Jessica Gottlieb and Thiago Moreira [PAP](https://osf.io/yvqex) - (please email for current version)
 
 [The Origin of Universities in Europe, 800-1800.](../papers/Hollenbach_Pierskalla_2022.pdf)  (2022) – With Jan H. Pierskalla
