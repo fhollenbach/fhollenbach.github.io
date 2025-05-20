@@ -5,6 +5,7 @@ type: pages
 layout: single
 author_profile: true
 ---
+
 # Peer Reviewed Publications
 
 [Capital Mobility and Taxation: State–Business Collusion in China](https://academic.oup.com/isq/article/66/1/sqab096/6514648) - With Ling Chen. 2022. International Studies Quarterly. 66(1). 
