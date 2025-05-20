@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 
 description: Florian M. Hollenbach's Publications
 type: pages
 layout: single
