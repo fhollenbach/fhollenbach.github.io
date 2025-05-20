@@ -5,6 +5,7 @@ type: pages
 layout: single
 author_profile: true
 ---
+# Peer Reviewed Publications
 
 [Capital Mobility and Taxation: State–Business Collusion in China](https://academic.oup.com/isq/article/66/1/sqab096/6514648) - With Ling Chen. 2022. International Studies Quarterly. 66(1). 
 
@@ -37,3 +38,16 @@ author_profile: true
 [Ensemble Predictions of the 2012 US Presidential Election.](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/ensemble-predictions-of-the-2012-us-presidential-election/C1693F4C7E4B7F4239AAF26B58E2F5D4) – With Jacob M. Montgomery and Michael D. Ward. 2012. PS: Political Science & Politics. 45(4): 651 – 654.
 
 [Improving Predictions Using Ensemble Bayesian Model Averaging.](https://www.cambridge.org/core/journals/political-analysis) – With Jacob M. Montgomery and Michael D. Ward. 2012. Political Analysis. 20(3): 271-291.
+
+# Policy Reports and Other Publications
+
+[COP CO-OPTED? How corruption and undue influence threaten multilateral climate action](https://acdatacollective.org/wp-content/uploads/2024/10/COP-CO-OPTED-How-Corruption-and-Undue-Influence-Threaten-Multilateral-Climate-Action_FINAL.pdf) - With Louis Goddard, Michael Hornsby, Sam
+Leon, and David Szakonyi. 2024. *Transparency International* & *Anti-Corruption Data Collective*
+
+[Behind a Wall: Investigating Company and Real Estate Ownership in France](https://acdatacollective.org/wp-content/uploads/2023/07/2023-Report-Behind-a-Wall-English.pdf) - With Sara Brimbeuf, Maíra Martini, and David Szakonyi. 2023. *Transparency International* & *Anti-Corruption Data Collective*
+
+[Taxation and Public Spending in 19th Century Prussia](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2019/12/CP-Newsletter-Fall-19-CP-and-History.pdf). 2019. *APSA Comparative Politics Newsletter*. XXIX(2): 78-85.
+
+[Aggregation and Ensembles: Principled Combinations of Data](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/633D03D043D27149E67EF52D8EF3D94B/S1049096512001552a.pdf/aggregation-and-ensembles-principled-combinations-of-data.pdf) - With Jacob M. Montgomery and Michael D. Ward. 2013. *PS: Political Science \& Politics*. 46(1): 43-44.
+
+[Ensemble Predictions of the 2012 US Presidential Election](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C1693F4C7E4B7F4239AAF26B58E2F5D4/S1049096512000959a.pdf/ensemble-predictions-of-the-2012-us-presidentialelection.pdf) - With Jacob M. Montgomery and Michael D. Ward. 2012. *PS: Political Science \& Politics*. 45(4): 651--654.
