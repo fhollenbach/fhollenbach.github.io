@@ -6,7 +6,7 @@ layout: single
 author_profile: false
 ---
 
-__Working Papers & Work in Progress__
+# Working Papers & Work in Progress
 
 [The end of London-grad? The impact of beneficial ownership transparency on offshore investment in UK
 property](https://www.dropbox.com/s/86b3wvumn5snjtl/uk_bo_main.pdf?dl=0) (2023) - With Matthew Collin and David Szakonyi - WIDER Working Paper 11/2023.
